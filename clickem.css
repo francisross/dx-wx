@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Sono:wght@200;300&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-weight: 30;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+main {
+    text-align: center;
+    text-transform: capitalize;
+    width: 100%;
+    height: 85vh;
+    font-family: Nanum Gothic;
+    padding: 9px;
+    background-color: #E5BA73;
+}
+
+h2 {
+   color: rgb(0, 0, 0), 104 94;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  height: 10px;
+  font-size: 100%;
+  margin: 12px;
+  padding: 10px;
+}
+
+h3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+    padding: 1px;
+    height: 13%;
+}
+
+footer{  
+    text-align: center;
+    font-family: Nanum Gothic;
+    margin: 2;
+}
+p{
+    color: rgb(0, 0, 0);
+    background-color: #e5ba73;
+    height: 120px;
+    justify-content: center;
+    display: flex;
+}
+button {
+    background-color: #00000000; 
+    
+    border: none;
+    color: #000000d2;
+    padding: 12px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    font-weight: 12px;
+    }
+
+   
